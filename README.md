@@ -1,16 +1,57 @@
-# React + Vite
+# 📱 iPhone 17 Pro Landing Page
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Landing page moderna inspirada no iPhone 17 Pro, desenvolvida com foco em design sofisticado, responsividade e experiência do usuário.
 
-Currently, two official plugins are available:
+<br>
 
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react) uses [Babel](https://babeljs.io/) (or [oxc](https://oxc.rs) when used in [rolldown-vite](https://vite.dev/guide/rolldown)) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+## 🚀 Funcionalidades
 
-## React Compiler
+* 📱 Design totalmente responsivo (mobile, tablet e desktop)
+* 🎯 Interface moderna inspirada em páginas de produtos
+* ⚡ Componentização com React
+* 🎬 Animações e transições suaves
+* 🖱️ Botões interativos
 
-The React Compiler is not enabled on this template because of its impact on dev & build performances. To add it, see [this documentation](https://react.dev/learn/react-compiler/installation).
 
-## Expanding the ESLint configuration
+## 🛠️ Tecnologias utilizadas
 
-If you are developing a production application, we recommend using TypeScript with type-aware lint rules enabled. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) for information on how to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
+<p>
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="React" />
+  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-original.svg" height="30" alt="JavaScript" />
+  <img src="https://www.vectorlogo.zone/logos/tailwindcss/tailwindcss-icon.svg" height="30" alt="Tailwind CSS" />
+  <img src="https://vitejs.dev/logo.svg" height="30" alt="Vite" />
+</p>
+
+<br>
+
+## 📸 Preview - (Imagem)
+
+![site](./public/img/preview-site.png)
+
+<br>
+
+## 🎬  Preview - (Gif)
+
+![preview](./public/preview-iphone.gif)
+
+
+
+## 🌐 Acesse o projeto
+
+ Repositório: https://github.com/kiaraengineer-dev/iphone-17-react-tailwind
+ 
+
+## 📂 Como rodar o projeto
+
+```bash
+# Clone o repositório
+git clone https://github.com/kiaraengineer-dev/iphone-17-react-tailwind.git
+
+# Acesse a pasta
+cd iphone-17-react-tailwind
+
+# Instale as dependências
+npm install
+
+# Rode o projeto
+npm run dev
