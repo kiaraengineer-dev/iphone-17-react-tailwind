@@ -38,7 +38,7 @@ Landing page moderna inspirada no iPhone 17 Pro, desenvolvida com foco em design
 
 ## 🌐 Acesse o projeto
 
- Repositório: https://github.com/kiaraengineer-dev/iphone-17-react-tailwind
+ https://iphone17-landing-dev.netlify.app/
  
 
 ## 📂 Como rodar o projeto
